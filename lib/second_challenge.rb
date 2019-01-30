@@ -8,9 +8,7 @@ def second_challenge
         
       },
       :hero => {
-        name: "Romeo",
-        ago: "15",
-        status: "alive"
+        
       },
       :hero_friends => []
       }, 
