@@ -10,7 +10,9 @@ def third_challenge
         age: "54"
         },
       :hero => {
-        
+        name: "Romeo",
+        ago: "15",
+        status: "alive"
         },
       :hero_friends => []
    }, 
